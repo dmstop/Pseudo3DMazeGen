@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labirint", "Labirint\Labirint.csproj", "{F0CC3B91-8F82-4387-8C1C-9FD22737C1C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeGenerator", "MazeGenerator\MazeGenerator.csproj", "{34F4353D-CAB9-448E-AF7D-0E4EA99ABF92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0CC3B91-8F82-4387-8C1C-9FD22737C1C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0CC3B91-8F82-4387-8C1C-9FD22737C1C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0CC3B91-8F82-4387-8C1C-9FD22737C1C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0CC3B91-8F82-4387-8C1C-9FD22737C1C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34F4353D-CAB9-448E-AF7D-0E4EA99ABF92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F4353D-CAB9-448E-AF7D-0E4EA99ABF92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F4353D-CAB9-448E-AF7D-0E4EA99ABF92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F4353D-CAB9-448E-AF7D-0E4EA99ABF92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C5D6DF9-500F-482B-80BF-01E67DBE1F98}
+	EndGlobalSection
+EndGlobal
